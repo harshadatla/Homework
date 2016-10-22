@@ -4,7 +4,7 @@ forEach calls for a method, once for each elemtn in a array.
 
    array.forEach(function(currentValue,index,arr), thisValue)
 
-map creates a new array with the specified operation 
+map creates a new array with the specified operation gfdgfgfdgdf
 
 	array.map(function(currentValue,index,arr), thisValue)
 
