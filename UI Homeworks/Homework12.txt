@@ -10,12 +10,12 @@ do while :
 
 do{
 }
-while( condition ) 
+while( condition )
 
 checks for condition after the iteration is done
 
 for loop:
-
+lkmvlrkgvmlgrvgr
 for(initialization; condition; increment/decrement){
 }
 
