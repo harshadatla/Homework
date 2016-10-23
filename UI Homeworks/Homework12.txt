@@ -16,6 +16,7 @@ checks for condition after the iteration is done
 
 for loop:
 made change
+nice change
 for(initialization; condition; increment/decrement){
 }
 
