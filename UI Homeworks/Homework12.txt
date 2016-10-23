@@ -15,7 +15,7 @@ while( condition )
 checks for condition after the iteration is done
 
 for loop:
-lkmvlrkgvmlgrvgr
+made change
 for(initialization; condition; increment/decrement){
 }
 
